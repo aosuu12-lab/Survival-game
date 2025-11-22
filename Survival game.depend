@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1763180723 source:c:\users\aosuu\onedrive\stalinis kompiuteris\iittttt\survival game\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+
